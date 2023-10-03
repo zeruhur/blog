@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto:robertobisceglie@gmail.com
+  icon: fas fa-envelope
+- title: Mastodon
+  url: https://livellosegreto.it/@zeruhur
+  icon: fa-brands fa-mastodon
+- title: GitHub
+  url: https://github.com/zeruhur
+  icon: fab fa-github

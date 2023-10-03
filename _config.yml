@@ -1,0 +1,19 @@
+remote_theme: vfvong/jekyll-theme-tao
+
+title: Geek Wanderings
+tagline: A digital-era dweller's den
+description: A blog where technology, role-playing games, video games, and philosophy meet.
+
+author:
+  name:   zeruhur
+  url:    https://zeruhur.space
+  avatar: https://avatars.githubusercontent.com/u/51272598?v=4
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+paginate: 2
+
+categories_path: /categories/
+tags_path: /tags/
